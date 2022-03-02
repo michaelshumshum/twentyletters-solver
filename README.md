@@ -3,7 +3,7 @@ this isn't really fun anymore
 
 ## what
 
-python script to solve the [twentyletters.com](https://twentyletters.com) puzzles
+python script to solve the [twentyletters.com](https://twentyletters.com) puzzles. it's not optimized at all, but considering how fast it already is, there is no point to revise it too much. the performance increase would be so marginal.
 
 ## how use
 

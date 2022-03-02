@@ -36,7 +36,7 @@ def solve(data):
         for letter in word:
             this_letters.remove(letter)
 
-        for word in data[1:]:
+        for word in data[data.index(combination[0]):]:
             if not check_word(word, this_letters[:]):
                 continue
             combination.append(word)
